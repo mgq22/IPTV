@@ -1,3 +1,4 @@
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
 #EXTINF:-1 group-title="央视" tvg-name="CCTV1" tvg-logo="https://live.404003.xyz/LOGO/CCTV1.png",CCTV1
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-name="CCTV2" tvg-logo="https://live.404003.xyz/LOGO/CCTV2.png",CCTV2
