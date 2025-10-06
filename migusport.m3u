@@ -1,98 +1,94 @@
-#EXTINF:-1,tvg-id="咪咕4k-1-a" tvg-name="咪咕4k-1-a" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_4K_1-a
-http://111.22.153.159:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕4k-1-b" tvg-name="咪咕4k-1-b" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_4K_1-b
-http://261106.xyz:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕4k-2-a" tvg-name="咪咕4k-2-a" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_4K_2-a
-http://111.22.153.159:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕4k-2-b" tvg-name="咪咕4k-2-b" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_4K_2-b
-http://261106.xyz:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-1" tvg-name="咪咕1080-1" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-1
-http://111.22.153.159:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-2" tvg-name="咪咕1080-2" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-2
-http://111.22.153.159:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-3" tvg-name="咪咕1080-3" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-3
-http://111.22.153.159:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-4" tvg-name="咪咕1080-4" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-4
-http://111.22.153.159:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-5" tvg-name="咪咕1080-5" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-5
-http://111.22.153.159:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-6" tvg-name="咪咕1080-6" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-6
-http://111.22.153.159:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-7" tvg-name="咪咕1080-7" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-7
-http://111.22.153.159:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-8" tvg-name="咪咕1080-8" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-8
-http://111.22.153.159:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-9" tvg-name="咪咕1080-9" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-9
-http://111.22.153.159:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-10" tvg-name="咪咕1080-10" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-10
-http://111.22.153.159:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-11" tvg-name="咪咕1080-11" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-11
-http://111.22.153.159:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-12" tvg-name="咪咕1080-12" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-12
-http://111.22.153.159:35455/itv/3000000020000011518.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-13" tvg-name="咪咕1080-13" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-13
-http://111.22.153.159:35455/itv/3000000020000011519.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-14" tvg-name="咪咕1080-14" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-14
-http://111.22.153.159:35455/itv/3000000020000011520.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-15" tvg-name="咪咕1080-15" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-15
-http://111.22.153.159:35455/itv/3000000020000011521.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-16" tvg-name="咪咕1080-16" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-16
-http://111.22.153.159:35455/itv/3000000020000011522.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-17" tvg-name="咪咕1080-17" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-17
-http://111.22.153.159:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-18" tvg-name="咪咕1080-18" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-18
-http://111.22.153.159:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-19" tvg-name="咪咕1080-19" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-19
-http://111.22.153.159:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-20" tvg-name="咪咕1080-20" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-20
-http://111.22.153.159:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-21" tvg-name="咪咕1080-21" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-21
-http://111.22.153.159:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-22" tvg-name="咪咕1080-22" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-22
-http://111.22.153.159:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-23" tvg-name="咪咕1080-23" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-23
-http://111.22.153.159:35455/itv/3000000020000011531.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-24" tvg-name="咪咕1080-24" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-24
-http://111.22.153.159:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-25" tvg-name="咪咕1080-25" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-25
-http://111.22.153.159:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-26" tvg-name="咪咕1080-26" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-26
-http://111.22.153.159:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-27" tvg-name="咪咕1080-27" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-27
-http://111.22.153.159:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-28" tvg-name="咪咕1080-28" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-28
-http://111.22.153.159:35455/itv/3000000010000004193.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-29" tvg-name="咪咕1080-29" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-29
-http://111.22.153.159:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-30" tvg-name="咪咕1080-30" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-30
-http://111.22.153.159:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-31" tvg-name="咪咕1080-31" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-31
-http://111.22.153.159:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-32" tvg-name="咪咕1080-32" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-32
-http://111.22.153.159:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-33" tvg-name="咪咕1080-33" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-33
-http://111.22.153.159:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-34" tvg-name="咪咕1080-34" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-34
-http://111.22.153.159:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-35" tvg-name="咪咕1080-35" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-35
-http://111.22.153.159:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-36" tvg-name="咪咕1080-36" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-36
-http://111.22.153.159:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-37" tvg-name="咪咕1080-37" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-37
-http://111.22.153.159:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-38" tvg-name="咪咕1080-38" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-38
-http://111.22.153.159:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-39" tvg-name="咪咕1080-39" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-39
-http://111.22.153.159:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-40" tvg-name="咪咕1080-40" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-40
-http://111.22.153.159:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-41" tvg-name="咪咕1080-41" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-41
-http://111.22.153.159:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-42" tvg-name="咪咕1080-42" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-42
-http://111.22.153.159:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-43" tvg-name="咪咕1080-43" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-43
-http://111.22.153.159:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-44" tvg-name="咪咕1080-44" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-44
-http://111.22.153.159:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="咪咕1080-45" tvg-name="咪咕1080-45" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-45
-http://111.22.153.159:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://epg.112114.xyz/logo/睛彩竞技.png" epg-url="https://epg.112114.xyz/pp.xml",睛彩竞技
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011528&/PLTV/&$8M1FHD
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://epg.112114.xyz/logo/睛彩竞技.png" epg-url="https://epg.112114.xyz/pp.xml",睛彩竞技
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011530&/PLTV/&$8M2FHD
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://epg.112114.xyz/logo/睛彩篮球.png" epg-url="https://epg.112114.xyz/pp.xml",睛彩篮球
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011529&/PLTV/&$8M1FHD
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://epg.112114.xyz/logo/睛彩篮球.png" epg-url="https://epg.112114.xyz/pp.xml",睛彩篮球
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011531&/PLTV/&$8M2FHD
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://epg.112114.xyz/logo/睛彩青少.png" epg-url="https://epg.112114.xyz/pp.xml",睛彩青少
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011525&/PLTV/&$8M1FHD
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://epg.112114.xyz/logo/睛彩青少.png" epg-url="https://epg.112114.xyz/pp.xml",睛彩青少
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000031315&/PLTV/&$8M2FHD
+#EXTINF:-1 tvg-name="睛彩广场" tvg-logo="https://epg.112114.xyz/logo/睛彩广场.png" epg-url="https://epg.112114.xyz/pp.xml",睛彩广场
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011523&/PLTV/&$8M1FHD
+#EXTINF:-1 tvg-name="睛彩广场" tvg-logo="https://epg.112114.xyz/logo/睛彩广场.png" epg-url="https://epg.112114.xyz/pp.xml",睛彩广场
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011524&/PLTV/&$8M2FHD
+#EXTINF:-1 tvg-name="咪视界4k" tvg-logo="https://epg.112114.xyz/logo/咪视界4k.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界4k
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000005180&/PLTV/&$32M UHD
+#EXTINF:-1 tvg-name="至臻视界" tvg-logo="https://epg.112114.xyz/logo/至臻视界.png" epg-url="https://epg.112114.xyz/pp.xml",至臻视界
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000015686&/PLTV/&$32M UHD
+#EXTINF:-1 tvg-name="咪视界01" tvg-logo="https://epg.112114.xyz/logo/咪视界01.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界01
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000005308&/PLTV/&$8M FHD
+#EXTINF:-1 tvg-name="咪视界02" tvg-logo="https://epg.112114.xyz/logo/咪视界02.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界02
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000005969&/PLTV/&$8M FHD
+#EXTINF:-1 tvg-name="咪视界03" tvg-logo="https://epg.112114.xyz/logo/咪视界03.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界03
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000007218&/PLTV/&$8M FHD
+#EXTINF:-1 tvg-name="咪视界04" tvg-logo="https://epg.112114.xyz/logo/咪视界04.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界04
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000008001&/PLTV/&$8M FHD
+#EXTINF:-1 tvg-name="咪视界05" tvg-logo="https://epg.112114.xyz/logo/咪视界05.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界05
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000008176&/PLTV/&$8M FHD
+#EXTINF:-1 tvg-name="咪视界06" tvg-logo="https://epg.112114.xyz/logo/咪视界06.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界06
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000008379&/PLTV/&$8M FHD
+#EXTINF:-1 tvg-name="咪视界07" tvg-logo="https://epg.112114.xyz/logo/咪视界07.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界07
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000010129&/PLTV/&$8M FHD
+#EXTINF:-1 tvg-name="咪视界08" tvg-logo="https://epg.112114.xyz/logo/咪视界08.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界08
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000010948&/PLTV/&$8M FHD
+#EXTINF:-1 tvg-name="咪视界09" tvg-logo="https://epg.112114.xyz/logo/咪视界09.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界09
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000028638&/PLTV/&$8M FHD
+#EXTINF:-1 tvg-name="咪视界10" tvg-logo="https://epg.112114.xyz/logo/咪视界10.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界10
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000031494&/PLTV/&$8M FHD
+#EXTINF:-1 tvg-name="咪视界11" tvg-logo="https://epg.112114.xyz/logo/咪视界11.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界11
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000000097&/PLTV/&$5M FHD
+#EXTINF:-1 tvg-name="咪视界12" tvg-logo="https://epg.112114.xyz/logo/咪视界12.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界12
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000002019&/PLTV/&$5M FHD
+#EXTINF:-1 tvg-name="咪视界13" tvg-logo="https://epg.112114.xyz/logo/咪视界13.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界13
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000002809&/PLTV/&$5M FHD
+#EXTINF:-1 tvg-name="咪视界14" tvg-logo="https://epg.112114.xyz/logo/咪视界14.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界14
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000003915&/PLTV/&$5M FHD
+#EXTINF:-1 tvg-name="咪视界15" tvg-logo="https://epg.112114.xyz/logo/咪视界15.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界15
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000004193&/PLTV/&$5M FHD
+#EXTINF:-1 tvg-name="咪视界16" tvg-logo="https://epg.112114.xyz/logo/咪视界16.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界16
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000005837&/PLTV/&$8M FHD
+#EXTINF:-1 tvg-name="咪视界17" tvg-logo="https://epg.112114.xyz/logo/咪视界17.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界17
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000006077&/PLTV/&$5M FHD
+#EXTINF:-1 tvg-name="咪视界18" tvg-logo="https://epg.112114.xyz/logo/咪视界18.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界18
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000006658&/PLTV/&$5M FHD
+#EXTINF:-1 tvg-name="咪视界19" tvg-logo="https://epg.112114.xyz/logo/咪视界19.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界19
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000009788&/PLTV/&$5M FHD
+#EXTINF:-1 tvg-name="咪视界20" tvg-logo="https://epg.112114.xyz/logo/咪视界20.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界20
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000010833&/PLTV/&$5M FHD
+#EXTINF:-1 tvg-name="咪视界21" tvg-logo="https://epg.112114.xyz/logo/咪视界21.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界21
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000011297&/PLTV/&$5M FHD
+#EXTINF:-1 tvg-name="咪视界22" tvg-logo="https://epg.112114.xyz/logo/咪视界22.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界22
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000011518&/PLTV/&$5M FHD
+#EXTINF:-1 tvg-name="咪视界23" tvg-logo="https://epg.112114.xyz/logo/咪视界23.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界23
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000012558&/PLTV/&$5M FHD
+#EXTINF:-1 tvg-name="咪视界24" tvg-logo="https://epg.112114.xyz/logo/咪视界24.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界24
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000012616&/PLTV/&$5M FHD
+#EXTINF:-1 tvg-name="咪视界25" tvg-logo="https://epg.112114.xyz/logo/咪视界25.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界25
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000015470&/PLTV/&$5M FHD
+#EXTINF:-1 tvg-name="咪视界26" tvg-logo="https://epg.112114.xyz/logo/咪视界26.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界26
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000015560&/PLTV/&$5M FHD
+#EXTINF:-1 tvg-name="咪视界27" tvg-logo="https://epg.112114.xyz/logo/咪视界27.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界27
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000019839&/PLTV/&$5M FHD
+#EXTINF:-1 tvg-name="咪视界28" tvg-logo="https://epg.112114.xyz/logo/咪视界28.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界28
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000021904&/PLTV/&$5M FHD
+#EXTINF:-1 tvg-name="咪视界29" tvg-logo="https://epg.112114.xyz/logo/咪视界29.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界29
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000023434&/PLTV/&$5M FHD
+#EXTINF:-1 tvg-name="咪视界30" tvg-logo="https://epg.112114.xyz/logo/咪视界30.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界30
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000025380&/PLTV/&$5M FHD
+#EXTINF:-1 tvg-name="咪视界31" tvg-logo="https://epg.112114.xyz/logo/咪视界31.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界31
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000027691&/PLTV/&$5M FHD
+#EXTINF:-1 tvg-name="咪视界32" tvg-logo="https://epg.112114.xyz/logo/咪视界32.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界32
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000031669&/PLTV/&$5M FHD
+#EXTINF:-1 tvg-name="咪视界33" tvg-logo="https://epg.112114.xyz/logo/咪视界33.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界33
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011518&/PLTV/&$8M FHD
+#EXTINF:-1 tvg-name="咪视界34" tvg-logo="https://epg.112114.xyz/logo/咪视界34.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界34
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011519&/PLTV/&$8M FHD
+#EXTINF:-1 tvg-name="咪视界35" tvg-logo="https://epg.112114.xyz/logo/咪视界35.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界35
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011520&/PLTV/&$8M FHD
+#EXTINF:-1 tvg-name="咪视界36" tvg-logo="https://epg.112114.xyz/logo/咪视界36.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界36
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011521&/PLTV/&$8M FHD
+#EXTINF:-1 tvg-name="咪视界37" tvg-logo="https://epg.112114.xyz/logo/咪视界37.png" epg-url="https://epg.112114.xyz/pp.xml",咪视界37
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011522&/PLTV/&$8M FHD
