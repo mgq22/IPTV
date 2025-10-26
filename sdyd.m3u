@@ -36,8 +36,9 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000323/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-name="CCTV15" tvg-logo="https://live.404003.xyz/LOGO/CCTV15.png",CCTV15
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000346/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-name="CCTV16" tvg-logo="https://live.404003.xyz/LOGO/CCTV16.png",CCTV16
-#EXTVLCOPT:http-user-agent=okhttp
-http://go.bkpcp.top/mg/cctv16
+https://shyd.695847.xyz/cms001/ch00000090990000001248/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
+#EXTINF:-1 group-title="央视" tvg-name="CCTV16-4K" tvg-logo="https://live.404003.xyz/LOGO/CCTV16.png",CCTV16-4K
+https://shyd.695847.xyz/cms001/ch00000090990000001258/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 #EXTINF:-1 group-title="央视" tvg-name="CCTV17" tvg-logo="https://live.404003.xyz/LOGO/CCTV17.png",CCTV17
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-name="CCTV4K" tvg-logo="https://live.404003.xyz/LOGO/CCTV4K.png",CCTV4K
