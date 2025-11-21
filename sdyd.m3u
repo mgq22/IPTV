@@ -43,6 +43,14 @@ http://39.152.103.17:8089/tsfile/live/1073_1.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-name="CCTV4K" tvg-logo="https://live.404003.xyz/LOGO/CCTV4K.png",CCTV4K
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV高网" tvg-logo="https://live.404003.xyz/LOGO/CCTV央视高网.png",CCTV高网
+http://39.152.103.17:8089/tsfile/live/1109_1.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV电视指南" tvg-logo="https://live.404003.xyz/LOGO/CCTV电视指南.png",CCTV电视指南
+http://39.152.103.17:8089/tsfile/live/1058_1.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV兵器科技" tvg-logo="https://live.404003.xyz/LOGO/CCTV兵器科技.png",CCTV兵器科技
+http://39.152.103.17:8089/tsfile/live/1067_1.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV女性时尚" tvg-logo="https://live.404003.xyz/LOGO/CCTV女性时尚.png",CCTV女性时尚
+http://39.152.103.17:8089/tsfile/live/1068_1.m3u8
 #EXTINF:-1 group-title="央视" tvg-name="CGTN" tvg-logo="https://live.404003.xyz/LOGO/CGTN.png",CGTN
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000352/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-name="CGTN俄语" tvg-logo="https://live.404003.xyz/LOGO/CGTN俄语.png",CGTN俄语
@@ -143,6 +151,12 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000341/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000366/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.404003.xyz/LOGO/黑龙江卫视.png",黑龙江卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000306/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="宁夏卫视" tvg-logo="https://live.404003.xyz/LOGO/宁夏卫视.png",宁夏卫视
+http://39.152.103.17:8089/tsfile/live/1086_1.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="新疆卫视" tvg-logo="https://live.404003.xyz/LOGO/新疆卫视.png",新疆卫视
+http://39.152.103.17:8089/tsfile/live/1087_1.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="兵团卫视" tvg-logo="https://live.404003.xyz/LOGO/兵团卫视.png",兵团卫视
+http://39.152.103.17:8089/tsfile/live/1094_1.m3u8
 #EXTINF:-1 group-title="数字频道" tvg-name="CHC动作电影" tvg-logo="https://live.404003.xyz/LOGO/CHC动作电影.png",CHC动作电影
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index.m3u8
 #EXTINF:-1 group-title="数字频道" tvg-name="CHC家庭影院" tvg-logo="https://live.404003.xyz/LOGO/CHC家庭影院.png",CHC家庭影院
