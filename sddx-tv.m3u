@@ -48,7 +48,7 @@ http://150.138.8.143/00/SNM/CHANNEL10000301/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/福建/东南卫视2.png" group-title="卫视频道",东南卫视
 http://150.138.8.143/00/SNM/CHANNEL00000310/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/上海/东方卫视2.png" group-title="卫视频道",东方卫视
-
+http://150.138.8.143/00/SNM/CHANNEL00000309/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/天津/天津卫视3.png" group-title="卫视频道",天津卫视
 http://150.138.8.143/00/SNM/CHANNEL00000327/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/安徽/安徽卫视2.png" group-title="卫视频道",安徽卫视
