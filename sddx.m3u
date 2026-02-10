@@ -34,13 +34,13 @@ http://150.138.8.143/00/SNM/CHANNEL00000346/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV16.png" group-title="央视频道",CCTV16
 http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV16.png" group-title="央视频道",CCTV16
-http://e1.woc.iiiya.cn:18888/rtp/239.61.4.135:1025
-#EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV16.png" group-title="央视频道",CCTV16
-http://woc.iiiya.cn:18888/rtp/239.61.4.135:1025
-#EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV16.png" group-title="央视频道",CCTV16
 http://69.30.246.194/live/cctv16.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV16.png" group-title="央视频道",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV16.png" group-title="央视频道",CCTV16
+http://e1.woc.iiiya.cn:18888/rtp/239.61.4.135:1025
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV16.png" group-title="央视频道",CCTV16
+http://woc.iiiya.cn:18888/rtp/239.61.4.135:1025
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV17.png" group-title="央视频道",CCTV17
 http://150.138.8.143/00/SNM/CHANNEL00000303/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV4K.png" group-title="央视频道",CCTV4K
