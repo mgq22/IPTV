@@ -1,161 +1,165 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
-#EXTINF:-1 tvg-name="221.181.100.64咪视界分组--------------------------" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",221.181.100.64咪视界分组--------------------------
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=m
-#EXTINF:-1 tvg-name="晴彩青少" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",晴彩青少
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000031315&livemode=1&stbId=m
-#EXTINF:-1 tvg-name="晴彩广场舞" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",晴彩广场舞
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=m
-#EXTINF:-1 tvg-name="晴彩竞技" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",晴彩竞技
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=m
-#EXTINF:-1 tvg-name="晴彩篮球" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",晴彩篮球
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=m
-#EXTINF:-1 tvg-name="咪世界4K" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪世界4K
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=m
-#EXTINF:-1 tvg-name="至臻视界4K" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",至臻视界4K
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=m
+#EXTINF:-1 tvg-name="-----------------221.181.100.64咪视界分组-----------------" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",-----------------221.181.100.64咪视界分组-----------------
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
 #EXTINF:-1 tvg-name="咪视界1" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界1
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=m
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
 #EXTINF:-1 tvg-name="咪视界2" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界2
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=m
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
 #EXTINF:-1 tvg-name="咪视界3" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界3
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=m
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
 #EXTINF:-1 tvg-name="咪视界4" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界4
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=m
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
 #EXTINF:-1 tvg-name="咪视界5" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界5
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=m
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
 #EXTINF:-1 tvg-name="咪视界6" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界6
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=m
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
 #EXTINF:-1 tvg-name="咪视界7" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界7
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=m
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
 #EXTINF:-1 tvg-name="咪视界8" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界8
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=m
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
 #EXTINF:-1 tvg-name="咪视界9" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界9
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=m
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
 #EXTINF:-1 tvg-name="咪视界10" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界10
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=m
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
 #EXTINF:-1 tvg-name="咪视界11" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界11
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=m
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
 #EXTINF:-1 tvg-name="咪视界12" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界12
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=m
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
 #EXTINF:-1 tvg-name="咪视界13" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界13
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=m
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
 #EXTINF:-1 tvg-name="咪视界14" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界14
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=m
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
 #EXTINF:-1 tvg-name="咪视界15" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界15
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=m
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
 #EXTINF:-1 tvg-name="咪视界16" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界16
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=m
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
 #EXTINF:-1 tvg-name="咪视界17" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界17
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=m
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
 #EXTINF:-1 tvg-name="咪视界18" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界18
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=m
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
 #EXTINF:-1 tvg-name="咪视界19" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界19
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=m
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
 #EXTINF:-1 tvg-name="咪视界20" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界20
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=m
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
 #EXTINF:-1 tvg-name="咪视界21" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界21
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=m
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
 #EXTINF:-1 tvg-name="咪视界22" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界22
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=m
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
 #EXTINF:-1 tvg-name="咪视界23" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界23
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=m
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
 #EXTINF:-1 tvg-name="咪视界24" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界24
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=m
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
 #EXTINF:-1 tvg-name="咪视界25" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界25
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=m
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
 #EXTINF:-1 tvg-name="咪视界26" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界26
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=m
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
 #EXTINF:-1 tvg-name="咪视界27" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界27
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=m
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
 #EXTINF:-1 tvg-name="咪视界28" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界28
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=m
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
 #EXTINF:-1 tvg-name="咪视界29" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界29
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=m
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
 #EXTINF:-1 tvg-name="咪视界30" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界30
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=m
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
 #EXTINF:-1 tvg-name="咪视界31" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界31
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=m
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
 #EXTINF:-1 tvg-name="咪视界32" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界32
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=m
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
 #EXTINF:-1 tvg-name="咪视界33" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界33
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=m
-#EXTINF:-1 tvg-name="36.155.98.21咪视界分组--------------------------" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",36.155.98.21咪视界分组--------------------------
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=m
-#EXTINF:-1 tvg-name="晴彩青少" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",晴彩青少
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000031315&livemode=1&stbId=m
-#EXTINF:-1 tvg-name="晴彩广场舞" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",晴彩广场舞
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=m
-#EXTINF:-1 tvg-name="晴彩竞技" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",晴彩竞技
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=m
-#EXTINF:-1 tvg-name="晴彩篮球" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",晴彩篮球
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=m
-#EXTINF:-1 tvg-name="咪世界4K" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪世界4K
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=m
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
+#EXTINF:-1 tvg-name="咪视界34" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界34
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
 #EXTINF:-1 tvg-name="至臻视界4K" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",至臻视界4K
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=m
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=toShengfen&mode=1&hostip=&$30MUHD
+#EXTINF:-1 tvg-name="咪视界4K" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界4K
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=toShengfen&mode=1&hostip=&$30MUHD
+#EXTINF:-1 tvg-name="晴彩竞技" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",晴彩竞技
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
+#EXTINF:-1 tvg-name="晴彩青少" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",晴彩青少
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000031315&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
+#EXTINF:-1 tvg-name="晴彩广场舞" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",晴彩广场舞
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
+#EXTINF:-1 tvg-name="晴彩篮球" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",晴彩篮球
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
+#EXTINF:-1 tvg-name="-----------------36.155.98.21咪视界分组-----------------" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",-----------------36.155.98.21咪视界分组-----------------
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
 #EXTINF:-1 tvg-name="咪视界1" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界1
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=m
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
 #EXTINF:-1 tvg-name="咪视界2" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界2
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=m
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
 #EXTINF:-1 tvg-name="咪视界3" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界3
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=m
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
 #EXTINF:-1 tvg-name="咪视界4" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界4
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=m
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
 #EXTINF:-1 tvg-name="咪视界5" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界5
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=m
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
 #EXTINF:-1 tvg-name="咪视界6" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界6
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=m
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
 #EXTINF:-1 tvg-name="咪视界7" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界7
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=m
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
 #EXTINF:-1 tvg-name="咪视界8" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界8
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=m
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
 #EXTINF:-1 tvg-name="咪视界9" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界9
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=m
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
 #EXTINF:-1 tvg-name="咪视界10" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界10
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=m
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
 #EXTINF:-1 tvg-name="咪视界11" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界11
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=m
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
 #EXTINF:-1 tvg-name="咪视界12" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界12
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=m
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
 #EXTINF:-1 tvg-name="咪视界13" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界13
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=m
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
 #EXTINF:-1 tvg-name="咪视界14" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界14
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=m
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
 #EXTINF:-1 tvg-name="咪视界15" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界15
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=m
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
 #EXTINF:-1 tvg-name="咪视界16" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界16
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=m
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
 #EXTINF:-1 tvg-name="咪视界17" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界17
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=m
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
 #EXTINF:-1 tvg-name="咪视界18" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界18
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=m
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
 #EXTINF:-1 tvg-name="咪视界19" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界19
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=m
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
 #EXTINF:-1 tvg-name="咪视界20" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界20
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=m
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
 #EXTINF:-1 tvg-name="咪视界21" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界21
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=m
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
 #EXTINF:-1 tvg-name="咪视界22" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界22
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=m
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
 #EXTINF:-1 tvg-name="咪视界23" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界23
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=m
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
 #EXTINF:-1 tvg-name="咪视界24" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界24
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=m
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
 #EXTINF:-1 tvg-name="咪视界25" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界25
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=m
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
 #EXTINF:-1 tvg-name="咪视界26" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界26
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=m
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
 #EXTINF:-1 tvg-name="咪视界27" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界27
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=m
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
 #EXTINF:-1 tvg-name="咪视界28" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界28
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=m
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
 #EXTINF:-1 tvg-name="咪视界29" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界29
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=m
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
 #EXTINF:-1 tvg-name="咪视界30" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界30
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=m
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
 #EXTINF:-1 tvg-name="咪视界31" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界31
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=m
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
 #EXTINF:-1 tvg-name="咪视界32" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界32
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=m
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
 #EXTINF:-1 tvg-name="咪视界33" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界33
-http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=m
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
+#EXTINF:-1 tvg-name="咪视界34" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界34
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=toShengfen&mode=1&hostip=&$5MFHD
+#EXTINF:-1 tvg-name="至臻视界4K" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",至臻视界4K
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=toShengfen&mode=1&hostip=&$30MUHD
+#EXTINF:-1 tvg-name="咪视界4K" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界4K
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=toShengfen&mode=1&hostip=&$30MUHD
+#EXTINF:-1 tvg-name="晴彩竞技" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",晴彩竞技
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
+#EXTINF:-1 tvg-name="晴彩青少" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",晴彩青少
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000031315&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
+#EXTINF:-1 tvg-name="晴彩广场舞" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",晴彩广场舞
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
+#EXTINF:-1 tvg-name="晴彩篮球" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",晴彩篮球
+http://36.155.98.21/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=toShengfen&mode=1&hostip=&$8MFHD
