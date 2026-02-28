@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
 #EXTINF:-1 tvg-name="-----------------221.181.100.64咪视界分组-----------------" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",-----------------221.181.100.64咪视界分组-----------------
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=m
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=m&hostip=39.134.149.187
 #EXTINF:-1 tvg-name="咪视界1" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界1
 http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=m
 #EXTINF:-1 tvg-name="咪视界2" tvg-logo="https://epg.112114.xyz/logo/咪视界.png",咪视界2
