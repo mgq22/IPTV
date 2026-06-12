@@ -43,8 +43,6 @@ http://82.156.243.185:36888/av3a/cctv16.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-name="CCTV4K" tvg-logo="https://live.404003.xyz/LOGO/CCTV4K.png",CCTV4K
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-name="CCTV8K" tvg-logo="https://live.404003.xyz/LOGO/CCTV8K超高清.png",CCTV8K
-http://82.156.243.185:36888/av3a/cctv8kn.m3u8
 #EXTINF:-1 group-title="央视" tvg-name="CGTN" tvg-logo="https://live.404003.xyz/LOGO/CGTN.png",CGTN
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000352/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-name="CGTN俄语" tvg-logo="https://live.404003.xyz/LOGO/CGTN俄语.png",CGTN俄语
@@ -57,14 +55,6 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000353/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000354/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-name="CGTN阿语" tvg-logo="https://live.404003.xyz/LOGO/CGTN阿语.png",CGTN阿语
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000356/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-name="中国交通" tvg-logo="https://live.404003.xyz/LOGO/中国交通.png",中国交通
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000073/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-name="中国教育1" tvg-logo="https://live.404003.xyz/LOGO/中国教育.png",中国教育1
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000076/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-name="中国教育4" tvg-logo="https://live.404003.xyz/LOGO/中国教育4.png",中国教育4
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000666/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-name="海洋频道" tvg-logo="https://live.404003.xyz/LOGO/海洋频道.png",海洋频道
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000662/index.m3u8
 #EXTINF:-1 group-title="山东省内" tvg-name="山东齐鲁" tvg-logo="https://live.404003.xyz/LOGO/山东齐鲁.png",山东齐鲁
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000313/index.m3u8
 #EXTINF:-1 group-title="山东省内" tvg-name="山东体育" tvg-logo="https://live.404003.xyz/LOGO/山东体育.png",山东体育
@@ -89,12 +79,16 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000001/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000302/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-name="东南卫视" tvg-logo="https://live.404003.xyz/LOGO/东南卫视.png",东南卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000310/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="东方卫视4K" tvg-logo="https://live.404003.xyz/LOGO/东方卫视4K.png",东方卫视4K
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000009/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-name="东方卫视" tvg-logo="https://live.404003.xyz/LOGO/东方卫视.png",东方卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000309/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-name="云南卫视" tvg-logo="https://live.404003.xyz/LOGO/云南卫视.png",云南卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000367/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-name="吉林卫视" tvg-logo="https://live.404003.xyz/LOGO/吉林卫视.png",吉林卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000363/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="四川卫视4K" tvg-logo="https://live.404003.xyz/LOGO/四川卫视4K.png",四川卫视4K
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000010/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-name="四川卫视" tvg-logo="https://live.404003.xyz/LOGO/四川卫视.png",四川卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000348/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-name="天津卫视" tvg-logo="https://live.404003.xyz/LOGO/天津卫视.png",天津卫视
@@ -111,6 +105,8 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000003/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000307/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-name="广西卫视" tvg-logo="https://live.404003.xyz/LOGO/广西卫视.png",广西卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000368/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="江苏卫视4K" tvg-logo="https://live.404003.xyz/LOGO/江苏卫视4K.png",江苏卫视4k
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000007/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-name="江苏卫视" tvg-logo="https://live.404003.xyz/LOGO/江苏卫视.png",江苏卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000304/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-name="江西卫视" tvg-logo="https://live.404003.xyz/LOGO/江西卫视.png",江西卫视
@@ -119,6 +115,8 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000335/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000330/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-name="河南卫视" tvg-logo="https://live.404003.xyz/LOGO/河南卫视.png",河南卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000358/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="浙江卫视4K" tvg-logo="https://live.404003.xyz/LOGO/浙江卫视4K.png",浙江卫视4K
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000008/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-name="浙江卫视" tvg-logo="https://live.404003.xyz/LOGO/浙江卫视.png",浙江卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000305/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-name="海南卫视" tvg-logo="https://live.404003.xyz/LOGO/海南卫视.png",海南卫视
@@ -129,6 +127,8 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000004/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000308/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-name="湖北卫视" tvg-logo="https://live.404003.xyz/LOGO/湖北卫视.png",湖北卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000325/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="湖南卫视4K" tvg-logo="https://live.404003.xyz/LOGO/湖南卫视4K.png",湖南卫视4K
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000006/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-name="湖南卫视" tvg-logo="https://live.404003.xyz/LOGO/湖南卫视.png",湖南卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000324/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-name="甘肃卫视" tvg-logo="https://live.404003.xyz/LOGO/甘肃卫视.png",甘肃卫视
