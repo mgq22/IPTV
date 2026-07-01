@@ -12,7 +12,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000350/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-name="CCTV4美洲" tvg-logo="https://live.404003.xyz/LOGO/CCTV4美洲.png",CCTV4美洲
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000351/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-name="CCTV5" tvg-logo="https://live.404003.xyz/LOGO/CCTV5.png",CCTV5
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000360/index.m3u8
+http://61.178.227.57:9901/tsfile/live/0005_1.m3u8
 #EXTINF:-1 group-title="央视" tvg-name="CCTV5+" tvg-logo="https://live.404003.xyz/LOGO/CCTV5+.png",CCTV5+
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000316/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-name="CCTV6" tvg-logo="https://live.404003.xyz/LOGO/CCTV6.png",CCTV6
@@ -36,7 +36,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000323/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-name="CCTV15" tvg-logo="https://live.404003.xyz/LOGO/CCTV15.png",CCTV15
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000346/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-name="CCTV16" tvg-logo="https://live.404003.xyz/LOGO/CCTV16.png",CCTV16
-http://82.156.243.185:36888/av3a/cctv16n.m3u8
+http://61.178.227.57:9901/tsfile/live/1003_1.m3u8
 #EXTINF:-1 group-title="央视" tvg-name="CCTV16-4K" tvg-logo="https://live.404003.xyz/LOGO/CCTV16-4K.png",CCTV16-4K
 http://82.156.243.185:36888/av3a/cctv16.m3u8
 #EXTINF:-1 group-title="央视" tvg-name="CCTV17" tvg-logo="https://live.404003.xyz/LOGO/CCTV17.png",CCTV17
